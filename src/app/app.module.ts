@@ -4,7 +4,7 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { NavbarComponent } from './components/core/Navbar/navbar.component';
+import { NavbarComponent } from './components/Navbar/navbar.component';
 
 @NgModule({
   declarations: [
